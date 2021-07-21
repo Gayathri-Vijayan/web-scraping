@@ -3,8 +3,10 @@
 Features: 
 - Product name
 - Price
-- Battery
+- RAM/ROM
+- Storage
 - Camera
+- Display
 
 
 
