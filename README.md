@@ -1,5 +1,5 @@
 # Scraping of Flipkart data (Android Phones)
- <h2> Using BeautifulSoup </h2>
+ <h3> The scraping id done using BeautifulSoup </h3>
 
 Features: 
 - Product name
